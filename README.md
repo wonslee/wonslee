@@ -2,7 +2,7 @@
 ## 👋 Hi! I'm Won Seok Lee
 Backend developer using Spring Framework based on Java. <br>
 
-✅ I try to write code that is reusable and readable. I see develpment as teamwork.<br>
+✔️ I try to write code that is reusable and readable. I see develpment as teamwork.<br>
 
 💡 I think every error is meaningful. (including human error)<br><br>
 
