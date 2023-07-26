@@ -4,6 +4,8 @@ Backend developer using Spring Framework based on Java. <br>
 
 ✔️ I try to write code that is reusable and readable. I see develpment as teamwork.<br>
 
+✔️ I'm interested in OOP, query optimization, and CI/CD. <br>
+
 💡 I think every error is meaningful. (including human error)<br><br>
 
  
