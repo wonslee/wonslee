@@ -2,9 +2,9 @@
 ## 👋 Hi! I'm Won Seok Lee
 Backend developer using Spring Framework based on Java. <br>
 
-I try not to write codes without reasons and try to write codes that is reusable and readable. <br>
+I try to write codes that is reusable and readable. I see develpment as teamwork.
 
-I'm interested in optimizing SQL queries, Authentication & Authorization logics, and CI/CD.
+I'm interested in OOP, optimizing SQL queries, Authentication & Authorization logics, and CI/CD.
 
 [📑Blog](https://zorbathegeek.tistory.com/)
  <br> <br>
