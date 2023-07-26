@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**wonslee/wonslee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi! I'm Won Seok Lee
+Backend developer using Spring Framework based on Java. <br>
 
-Here are some ideas to get you started:
+I try not to write codes without reasons and try to write codes that is reusable and readable. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in optimizing SQL queries, Authentication & Authorization logics, and CI/CD.
+
+[📑Blog](https://zorbathegeek.tistory.com/)
+ <br> <br>
+ 
+### ⚒️ Skills 
+
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" height=22px/>
+
+<img src="https://img.shields.io/badge/QueryDSL-0094F5?style=plastic&logo=querydsl&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" height=22px/>
+
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=22px/> 
+<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=white" height=22px/> 
+ <br> <br>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonseok2877)](https://solved.ac/wonseok2877/)
