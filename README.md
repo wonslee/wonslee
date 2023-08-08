@@ -34,5 +34,5 @@ Backend developer using Spring Framework based on Java. <br>
 <br><br>
 
 ### 🔍 About Me
-<a href="https://rahula.notion.site/249c9a8e8dba4aa9bc9996dd322fe4e4?pvs=4"><img src="https://img.shields.io/badge/portfolio-FF9800?style=square&logo=personio&logoColor=white" height=22px></a>
+<a href="https://rahula.notion.site/Server-Developer-af3a3bf9bd75419a93a3b8fa990e4ed4?pvs=4"><img src="https://img.shields.io/badge/portfolio-FF9800?style=square&logo=personio&logoColor=white" height=22px></a>
 <a href="mailto:wonseok2877@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=GMAIL&logoColor=white" height=22px></a>
